@@ -25,7 +25,7 @@ The Remote Management Handbook for PMs 是一本為產品管理（Product Manage
     - 薪資怎麼給付
     - 勞健保怎麼處理
     - 工時如何兼顧
-    - [遠距工作者的健康管理](general-remote-work-strategies\remote-worker-health-management.md)
+    - [遠距工作者的健康管理](general-remote-work-strategies/remote-worker-health-management.md)
 
 4. **PM認證資源**
     - PMP認證考試指南
