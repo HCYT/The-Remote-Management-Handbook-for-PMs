@@ -2,7 +2,7 @@
 
 ## 簡介
 
-The Remote Management Handbook for PMs 是一本為產品管理（Product Management, PdM）和專案管理（Project Management, PjM）專業人士設計的全面遠端管理指南。本手冊旨在提供一個結構化的方法，幫助管理人員在遠端工作環境中成功地領導和協調團隊。
+The Remote Management Handbook for PMs 是我希望可以將我透過 Remote 進行 產品經理及專案管理工作及團隊合作的經驗分享及整理，除了做紀錄之外也希望可以幫到有相同需求的人解惑或是成功和團隊合作。
 
 ## 目錄
 
@@ -33,5 +33,5 @@ The Remote Management Handbook for PMs 是一本為產品管理（Product Manage
     - 考取認證的學習資源與策略
 ## 聯絡資訊
 
-若你有任何問題或想法，請透過 [cyh@hcytlog.com](mailto:cyh@hcytlog.com) 聯絡我們。
+若你有任何問題或想法，可以在 Issue 上留下問題或討論。
 
