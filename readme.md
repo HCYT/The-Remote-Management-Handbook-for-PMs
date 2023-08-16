@@ -24,8 +24,8 @@ The Remote Management Handbook for PMs 是我希望可以將我透過 Remote 進
     - 遠距工作相關資源
     - 薪資怎麼給付
     - 勞健保怎麼處理
-    - [工時如何兼顧](general-remote-work-strategies/working-hours.md)
-    - [遠距工作者的健康管理](general-remote-work-strategies/remote-worker-health-management.md)
+    - [遠距的工作安排](general-remote-work-strategies/working-hours.md)
+    - [遠距工作的健康管理](general-remote-work-strategies/remote-worker-health-management.md)
 
 4. **PM認證資源**
     - PMP認證考試指南
